@@ -1,4 +1,4 @@
-LINUX GLOBAL MEDIA PLAYER SHORTCUTS
+Linux Global Media Player Shortcuts
 ===================================
 
 These scripts let you media keys work with multiple media players.
@@ -13,10 +13,11 @@ Tutorial (KDE4)
 - Configure a new custom shortcut for each media key and set it to execute the corresponding sh file
 - Enjoy :)
 
-*babootz*
-
 Credits
 -------
 
 - shell script by NarcT (https://www.kubuntuforums.net/showthread.php?58197-How-To-Get-Global-Media-Shortcuts-in-KDE)
+
+
+*babootz*
 
