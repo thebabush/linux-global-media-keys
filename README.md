@@ -1,9 +1,9 @@
 Linux Global Media Player Shortcuts
 ===================================
 
-These scripts let you media keys work with multiple media players.
+These scripts let your media keys work with multiple media players.
 
-Never let your media keys be mapped to a single media player :)
+No more media keys mapped to a single media player, yay :)
 
 Tutorial (KDE4)
 ---------------
